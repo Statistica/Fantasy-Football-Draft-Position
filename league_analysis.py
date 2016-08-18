@@ -70,7 +70,7 @@ fig = {
 			[{'labels': number_teams_c.keys(),
 			  'values': number_teams_c.values(),
 			  'type': 'pie'}],
-	'layout': {'title': "Number of Teams in Fantasy Football Leagues"}
+	'layout': {'title': "Number of Teams in ESPN Fantasy Football Leagues"}
 }
 
 plotly.plot(fig)
